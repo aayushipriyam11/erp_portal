@@ -493,6 +493,7 @@ record[i].display ();
 cout << "\n";
 }
 display_all_options ();
+}
 void teacher::insertion_of_a_new_stu_by_teacher ()
 {
 course_registration ob;
@@ -721,3 +722,5 @@ student_login_page eg;
 eg.teacher_or_student ();
 return 0;
 }
+
+
