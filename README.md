@@ -30,7 +30,3 @@ underflow will be shown as an output.
 
 ---
 
-#  Working & Demonstration
-As a guide a txt file named Working_demonstration with the proper images of input and output has been added in the repository.
-
----
